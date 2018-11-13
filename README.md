@@ -8,7 +8,7 @@ To get more tutorials, Please visit the link.
 https://ampersandacademy.com/tutorials/python-data-science
 
 
-Projects
+## Projects
 
 1. Random Forest Regression Using Boston Dataset
 
