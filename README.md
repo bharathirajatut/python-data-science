@@ -14,7 +14,11 @@ https://ampersandacademy.com/tutorials/python-data-science
 
   <a href="https://github.com/bharathirajatut/python-data-science/tree/master/Random%20Forest%20Regression%20-%20Boston%20Dataset"> Boston Dataset Random Forest Regression Code</a>
   
-  
+2. <a href="https://github.com/bharathirajatut/python-data-science/tree/master/xgboost-Regression-Example-Project">XGBoost Regression Example Project</a>
+
+3. <a href="https://github.com/bharathirajatut/python-data-science/tree/master/catboost-Regression-Example-Project">CatBoost Regression Example Project</a>
+
+
  
 ## Link to Read for A Data Scientist
 
