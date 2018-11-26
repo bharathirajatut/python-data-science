@@ -6,14 +6,17 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 It's a great dataset for evaluating simple regression models.
 
-21.6k x 21
+`Rows and Columns size`
 
-19 house features plus the price and the id columns, along with 21613 observations.
+<b>21.6k x 21</b>
+
+`19 house features plus the price and the id columns, along with 21613 observations.`
 
 
 ### Columns
 
-id - a notation for a house
+```
+1. id - a notation for a house
 
 dateDate - house was sold
 pricePrice - is prediction target
@@ -35,3 +38,4 @@ latLatitude coordinate
 longLongitude coordinate
 sqft_living15Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
 sqft_lot15lotSize area in 2015(implies-- some renovations)
+```
