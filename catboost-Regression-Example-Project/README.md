@@ -1,4 +1,4 @@
-This folder contains sample code for how to implement cat boost regression using python in simple steps.
+This folder contains sample code for how to implement <b>CatBoost Regression</b> using python in simple steps.
 
 ### About Dataset
 
