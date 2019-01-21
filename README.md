@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})
+
 This is my python data science repo.
 
 I will try many machine learnning projects and share the solution here.
