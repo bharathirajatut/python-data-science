@@ -1,3 +1,16 @@
+### XGBoost Installation on Windows
+
+Get whl file using the below link.
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+
+```
+
+python file_name.whl
+
+```
+
 This folder contains sample code for how to implement <b>XGBoost regression</b> using python in simple steps.
 
 ### About Dataset
