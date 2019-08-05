@@ -13,6 +13,20 @@ python file_name.whl
 
 This folder contains sample code for how to implement <b>XGBoost regression</b> using python in simple steps.
 
+### XGBoost Installation on Windows
+
+First install gcc using the terminal
+
+```
+brew install gcc@8
+```
+
+Then install xgboost using 
+
+```
+pip install xgboost
+
+```
 ### About Dataset
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
